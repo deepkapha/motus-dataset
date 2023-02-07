@@ -5,3 +5,6 @@ After extensive research on the internet, we found no efficient detector that co
 
 ## Data
 The dataset consists of 254 images of scenes from several Bollywood movies depicting sexual harassment, sexual violence and sexual abuse. The images are tagged with either of the three categories mentioned. The images are also annotated with 3 classes: victim, perpetrator and unwanted touching.
+
+## Dataset
+The link to the dataset can be found in the file 'dataset.txt'.
